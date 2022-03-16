@@ -3,7 +3,13 @@
 
 # The right way to avoid yayaya
 
-\tableofcontents <!-- you can use \toc as well -->
+<!-- \tableofcontents you can use \toc as well -->
+
+df
+
+\toc
+
+fdf
 
 This section is meant as a refresher if you're new to Franklin.
 Have a look at both how the website renders and the corresponding markdown (`index.md`).
@@ -166,6 +172,7 @@ Here are a few empty pages connecting to the menu links to show where files can 
 * [menu 1](/menu1/)
 * [menu 2](/menu2/)
 * [menu 3](/menu3/)
+* [menu 4](/menu4/)
 
 ## References (not really)
 
