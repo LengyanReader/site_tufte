@@ -1,7 +1,7 @@
 @def title = "my change"
-@def tags = ["syntax", "code"]
+@def tags = ["syntax", "AI"]
 
-# How to use Franklin yayaya
+# The right way to avoid yayaya
 
 \tableofcontents <!-- you can use \toc as well -->
 
