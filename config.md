@@ -1,12 +1,10 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-@def prepath = "site_tufte"
-
-
 +++
-author = "YNT"
+author = "YNT098"
 mintoclevel = 2
+
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
@@ -20,6 +18,9 @@ website_title = "Franklin Template"
 website_descr = "Example website using Franklin"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 +++
+
+@def prepath = "site_tufte"
+
 
 <!--
 Add here global latex commands to use throughout your pages.
